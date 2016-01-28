@@ -1,5 +1,16 @@
 ﻿# BioinfoPersonalProject
 This is my repository for all the input, output files, report, etc..
-My personal project for this course is going to be about reconstracting the phylogenetic tree of different Orca populations throught the world.
+My personal project for this course is going to be about reconstracting the phylogenetic tree of different Orca populations throught the world based on full mitochondrial genome sequences.
+
+The outcome is a bit different to the original plan, this script is made for a test file with only a few sequences in order to present what the script would do to the mitochondrial genome datafile. 
+The script let's the user decide whether a tree with each and every sequences are needed to be made or without the partial sequences.
+
+!!!!IMPORTANT!!!!
+
+In order to run the project_bioinfo.sh the treebuilder.py has to be edited and the command line inside that greps the txt file has to be set to the working directory that you use.
+
+The input file is allseq_test.fas.
+
+
  
 
